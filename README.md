@@ -4,8 +4,11 @@ The goal of this project is to analyze the performance of various machine learni
 
 ## Objectives
 To preprocess and clean multiple sales datasets available in CSV format.
+
 To apply different machine learning classification models to these datasets.
+
 To evaluate and compare the models using performance metrics such as accuracy, precision, recall, and F1 score.
+
 To identify the most suitable model for predicting sales outcomes based on the evaluation metrics.
 ## Methodology
 ### Data Collection
